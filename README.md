@@ -10,7 +10,7 @@ Este proyecto automatiza la corrección y mejora de textos transcritos provenien
 El objetivo principal es limpiar, corregir y mejorar las transcripciones de discursos y editoriales agrupadas por orientación política (`izquierda`, `derecha`, `neutral`), aplicando reglas como:
 
 - Corrección ortográfica
-- Eliminación de nombres y apellidos
+- Corrección de nombres y apellidos
 - Verificación de cohesión y coherencia textual
 
 ---
